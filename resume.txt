@@ -1,0 +1,27 @@
+Isaac G Reilly
+
+Contact 
+	isaac.g.reilly@gmail.com 
+	857 342 2740
+
+Education 
+	Yale University, class of 2016, major in Computer Science
+	Interlochen Arts Academy High School 2011, with Honors
+	Middlebury College Russian School, level 6, summer 2012
+	Middlebury-Monterey Language Academy, Arabic School, summers of 2009 and 2010
+
+Experience 
+	Teaching Assistant for the Art of Problem Solving institute, a company that provides online math classes for elementary to high school students. Their website is www.artofproblemsolving.com
+	Founder of the Krolik Saxophone Ensemble, a Yale undergraduate orga- nization
+	Shop Assistant at DGF Technology 	Front Desk volunteer at the Artisans Asylum makerspace. 2014 – 2015
+	Developer for PostClipper, a Facebook app for creating photo albums and scrapbooks. Java Play Framework, JS, and HTML+CSS. Summer 2015
+	Hackathons: NASA Space App Challenge, Purple Monkey Game Jam, Hac Boston (Haskell)
+	Laboratory of Computer Science at Massachusetts General Hospital. Tcl, OpenACS, CSS, JS. August – September 2015
+
+Skills 
+	C, Python, JavaScript, Processing, Haskell, SQL, Linux, Tcl Lilypond, LATEX, Blender, Photoshop, Indesign, Inkscape Working knowledge of Russian, basic Arabic 	Music performance (primarily baritone sax)
+
+Awards 
+	National Merit Scholar
+	Renaissance Man Award, Interlochen Arts Academy Comparative Arts program
+	Placed in top 100, Michigan Math Prize Competition
