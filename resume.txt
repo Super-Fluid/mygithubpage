@@ -12,7 +12,7 @@ Education
 
 Experience 
 	Teaching Assistant for the Art of Problem Solving institute, a company that provides online math classes for elementary to high school students. Their website is www.artofproblemsolving.com
-	Founder of the Krolik Saxophone Ensemble, a Yale undergraduate orga- nization
+	Founder of the Krolik Saxophone Ensemble, a Yale undergraduate organization
 	Shop Assistant at DGF Technology 	Front Desk volunteer at the Artisans Asylum makerspace. 2014 – 2015
 	Developer for PostClipper, a Facebook app for creating photo albums and scrapbooks. Java Play Framework, JS, and HTML+CSS. Summer 2015
 	Hackathons: NASA Space App Challenge, Purple Monkey Game Jam, Hac Boston (Haskell)
