@@ -16,7 +16,7 @@ Experience
 	Shop Assistant at DGF Technology 	Front Desk volunteer at the Artisans Asylum makerspace. 2014 – 2015
 	Developer for PostClipper, a Facebook app for creating photo albums and scrapbooks. Java Play Framework, JS, and HTML+CSS. Summer 2015
 	Hackathons: NASA Space App Challenge, Purple Monkey Game Jam, Hac Boston (Haskell)
-	Laboratory of Computer Science at Massachusetts General Hospital. Tcl, OpenACS, CSS, JS. August – September 2015
+	Laboratory of Computer Science at Massachusetts General Hospital. Tcl, OpenACS, CSS, JS. August – September 2015 and during school breaks.
 
 Skills 
 	C, Python, JavaScript, Processing, Haskell, SQL, Linux, Tcl Lilypond, LATEX, Blender, Photoshop, Indesign, Inkscape Working knowledge of Russian, basic Arabic 	Music performance (primarily baritone sax)
